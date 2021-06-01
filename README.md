@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TensorFlow and Google Cloud.
 - 💞️ I’m looking to collaborate on Twitter sentiment analysis, web scraping and data mining, and 
 - 📫 How to reach me djreya.boyd@gmail.com
-- Also feel free to visit [my website](www.djreyaboyd.com).
+- Also feel free to visit [my website](https://www.djreyaboyd.com/).
 
 <!---
 DJreyaB/DJreyaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
