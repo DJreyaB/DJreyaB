@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DJreyaB
-- 👀 I’m interested in Machine Learning and Artificial Intelligence and Cloud Data Engineering.
+- 👀 I’m interested in Cloud Data Engineering.
 - 🌱 I’m currently building ETL pipelines with postgresql and python.
 - 💞️ I’m looking to collaborate on Twitter sentiment analysis, web scraping and data mining, and recommendation systems.
 - 📫 How to reach me djreya.boyd@gmail.com
