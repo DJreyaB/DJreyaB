@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJreyaB
-- 👀 I’m interested in Cloud Data Engineering.
-- 🌱 I’m currently building ETL pipelines with postgresql and python.
+- 👀 I’m interested in Cloud Data Engineering / Data Engineering.
+- 🌱 I’m currently building ETL pipelines with postgresql, Apache Cassandra and python.
 - 💞️ I’m looking to collaborate on Twitter sentiment analysis, web scraping and data mining, and recommendation systems.
 - 📫 How to reach me djreya.boyd@gmail.com
 - Also feel free to visit [my website](https://www.djreyaboyd.com/).
