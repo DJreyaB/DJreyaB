@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DJreyaB
-- 👀 I’m interested in Godot Game Development.
+- 👀 I’m interested in Godot Game Development, Python BackEnd Development and Data Engineering.
 - 🌱 I’m currently building websites using Django/Python and exploring open source projects like Apache Beam.
 - 💞️ I’m looking to collaborate on all visualization and data analytics with a preference for projects written in Python or Go.
 
