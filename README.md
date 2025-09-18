@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJreyaB
-- 👀 I’m interested in Godot Game Development, Python BackEnd Development and Data Engineering.
-- 🌱 I’m currently building websites using Django/Python and exploring open source projects like Apache Beam.
-- 💞️ I’m looking to collaborate on all visualization and data analytics with a preference for projects written in Python or Go.
+- 👀 I’m interested in Financial Analytics, Predictive & Prescriptive Machine Learning and Data Engineering.
+- 🌱 I’m currently reading Elements of Statistical Learning & studying for CFI Financial Analyst certifications.
+- 💞️ I’m looking to collaborate on all data analytics with a preference for projects written in Python.
 
 <!---
 DJreyaB/DJreyaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
